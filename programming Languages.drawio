@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T23:10:46.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="iFKSR_eQ7TVRPzrkvWve" version="20.2.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-07-23T23:38:31.353Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="LVReAtma9sS7N5LiCk6t" version="20.2.0" type="github" pages="14">
   <diagram id="PMNg3hbKL_q1zjl2Hwt8" name="Programming Languages">
     <mxGraphModel dx="1186" dy="715" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#46302B" math="0" shadow="0">
       <root>
@@ -742,6 +742,42 @@
         <mxCell id="8zsyV5USCLraSltBcSb7-163" value="swagger-ui-express" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#218B82;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
           <mxGeometry x="183" y="1278" width="130" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-1" value="python: 3.x" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F27348;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="1702" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-2" value="node:12xx-alpine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#218B82;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="182" y="1702" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-3" value="alpine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A15D98;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="333" y="1702" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-4" value="openjdk: 8-jdk-alpine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A15D98;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="333" y="1726" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-5" value="golang:alpine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C54B6C;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="479" y="1702" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-6" value="dotcorerest" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5784BA;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="619" y="1702" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-7" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontFamily=Helvetica;fontSize=12;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="769" y="1697" width="20" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-8" value="python:3.8-alpine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F27348;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="1726" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-9" value="Dockerfile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=15;horizontal=0;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1714" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-10" value="golang:1.18-alpine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C54B6C;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="479" y="1726" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-11" value="node-18-alpine" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#218B82;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="182" y="1725" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vSCDTz5MmBlTsEs6YLYy-12" value="" style="line;strokeWidth=1;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fontFamily=Helvetica;fontSize=12;dashed=1;dashPattern=1 1;strokeColor=#DDA15E;labelBackgroundColor=#283618;fillColor=#BC6C25;fontColor=#FEFAE0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="1688" width="720" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -830,6 +866,30 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Cz-i_qqgLi6IobeFXCKY" name="Rule Engine">
+    <mxGraphModel dx="1186" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Gs1_442zoD292fFqTaqK" name="API Gateway">
+    <mxGraphModel dx="1186" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hiZLlI9rxUruUsO9pp6i" name="WebApp">
+    <mxGraphModel dx="1186" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0cEEuFuFbahnIV3p-HPM" name="Docker">
     <mxGraphModel dx="1186" dy="715" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
